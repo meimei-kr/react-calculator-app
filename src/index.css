@@ -1,0 +1,7 @@
+:root {
+  height: 100vh;
+  background-color: #292b34;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
